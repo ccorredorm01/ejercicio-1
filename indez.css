@@ -1,0 +1,14 @@
+/*index.css*/
+html {background-color: lightsteelblue;}
+
+h1 {text-align: center; 
+    color:midnightblue
+}
+
+h2,h3 {color:darkslateblue}
+
+body {margin: 5em;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
