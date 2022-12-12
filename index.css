@@ -1,14 +1,24 @@
 /*index.css*/
-html {background-color: lightsteelblue;}
+html {background-color:antiquewhite;}
 
 h1 {text-align: center; 
-    color:midnightblue
+    color:darkred
 }
 
-h2,h3 {color:darkslateblue}
+h2,h3 {color:sienna}
 
 body {margin: 5em;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
 }
+
+ol {font-size: 20px;}
+
+a:hover { color:blue;}
+
+a:active { color:deeppink;}
+
+a:link { color:green;}
+
+a:visited { color: red;}
